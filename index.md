@@ -13,7 +13,7 @@ A key take away from the figure above is that subreddits that are based on some 
 
 Next, I looked at the median score in each subreddit of posts that swear vs. posts that don't swear. This is shown in the following plot.
 
-![Post scores](https://github.com/nathanchao/CSCD25-Project/blob/gh-pages/post%20scores.png)
+![Post scores](Pictures/post%20scores.png)
 
 I immediately noticed that in almost all subreddits, the median score for posts that swear is higher than that of posts that don't swear. Out of the sampled subreddits, the average ratio of scores of posts that swear to scores of posts that don't swear is: 5.408527796272671 and the median ratio is 1.9496527777777777.
 
