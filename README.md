@@ -1,5 +1,7 @@
 # Analyzing Bad Mouths
 
+## Data Story
+url: https://nathanchao.github.io/CSCD25-Project/
 ## Abstract
 A large portion of society has deemed certain words to be "bad", however some\
 people still choose to use these words in their everyday speech. My project\
@@ -22,6 +24,7 @@ influences.
 * Do people swear more or less in certain communities? If so, which communities?
 * Does swearing affect the score of a post? If so, how?
 * What behaviours on Reddit are associated with swearing?
+* When is swearing the most/least common (which month or day of the week and over the past two years)? 
 
 ## Proposed additional datasets:
 None
@@ -54,18 +57,18 @@ percentage of words that are swear words in each post with a swear word in it.
 **Methods that will be used to answer research questions:**
 
 To answer the research questions, I need methods for the following three tasks:\
-grouping posts by community, comparing the scores of posts, and finding \
+grouping posts by community/time, comparing the scores of posts, and finding \
 activities on Reddit that are correlated with swearing. I will explain the\
 methods for each of these tasks in the following sections.
 
-**Grouping posts by community (sub-reddit)**:
+**Grouping posts by community/time**:
 
-For two of the research questions, I will be looking at swearing within \
-individual communities. To do this, I will need to transform the data that I \
-have so that it's grouped by community. After doing that, I will easily be able\
+For three of the research questions, I will be looking at swearing within \
+individual communities/time periods. To do this, I will need to transform the data that I \
+have so that it's grouped by community/time. After doing that, I will easily be able\
 to find the median/mean score/swearing frequency of posts within a given \
-community. A visualization technique that I will use a is bar chart to \
-visually compare swearing frequency of posts in different communities.
+community/time period. A visualization technique that I will use a is bar chart to \
+visually compare swearing frequency of posts in different communities/time periods.
 
 **Comparing the scores of posts:**
 
