@@ -1,5 +1,7 @@
 # Analyzing Bad Mouths
 
+## Data Story
+url: https://nathanchao.github.io/CSCD25-Project/
 ## Abstract
 A large portion of society has deemed certain words to be "bad", however some\
 people still choose to use these words in their everyday speech. My project\
