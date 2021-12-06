@@ -1,10 +1,10 @@
 <b><span style="color:red">NSFW WARNING: NOTE THAT THERE ARE UNCENSORED SWEAR WORDS IN THIS ASSIGNMENT</span></b>.
 
-## Analyzing Bad Mouths
+# Analyzing Bad Mouths
 
 To keep data processing times minimal, I selected around 100 posts from 78 subreddits to analyze. 
 
-# Analyzing Proportion of Posts that Swear in Different Sub-Reddits
+## Analyzing Proportion of Posts that Swear in Different Sub-Reddits
 The following figure shows the proportion of posts in the selected subreddits that swear. 
 
 ![Subreddits that swear](Pictures/subreddit%20swearing.png)
@@ -23,5 +23,5 @@ The first method I tried was manually inspecting the subreddits with a large or 
 
 Next, I wanted to see if there's a correlation between  "swear proportion" (the proportion of posts in a subreddit that swear) and "score ratio", I reran the whole notebook multiple times and used the pandas corr function to find the Pearson coefficient. There was always a moderate or weak correlation between "swear proportion" and "score ratio". From this I concluded that there is no significant correlation between "swear proportion" and "score ratio". 
 
-# Finding which non-swear words are commonly said with swear words
-To find which non-swear words are commonly said with swear words, I trained a logistic regression to predict whether a post swears or not based on the words in the post and then analyzed the coefficients of the features in the trained logistic regression. 
+## Finding which non-swear words are commonly said with swear words
+To find which non-swear words are commonly said with swear words, I trained a logistic regression model to predict whether a post swears or not based on the words in the post and then analyzed the coefficients of the features in the trained logistic regression. 
