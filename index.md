@@ -2,6 +2,20 @@
 
 # Analyzing Bad Mouths
 
+## Abstract
+A large portion of society has deemed certain words to be "bad", however some
+people still choose to use these words in their everyday speech. My project
+aims to analyze the behaviour of these people. The project will hopefully give
+hints to deeper questions such as why people swear and what kinds of societal
+effects swearing has. I would also like to understand at a deep level the kinds
+of people that swear.
+
+Analyzing posts on Reddit is the ideal place to analyze these behaviours.
+Users can post anonymously, so users are more free to speak their mind freely
+without worrying about repercussions. The free-form speech posted on Reddit
+allows us to analyze human speech in its most natural form without any major
+influences.
+
 To keep data processing times minimal, I selected around 100 posts from 78 subreddits to analyze. Also note that for this assignment, I am considering a swear word to be any word that contains "sh\*\*" or "fu\*\*".
 
 ## Analyzing Proportion of Posts that Swear in Different Sub-Reddits
