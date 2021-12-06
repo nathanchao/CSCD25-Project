@@ -2,7 +2,7 @@
 
 # Analyzing Bad Mouths
 
-To keep data processing times minimal, I selected around 100 posts from 78 subreddits to analyze. 
+To keep data processing times minimal, I selected around 100 posts from 78 subreddits to analyze. Also note that for this assignment, I am considering a swear word to be any word that contains "sh\*\*" or "fu\*\*".
 
 ## Analyzing Proportion of Posts that Swear in Different Sub-Reddits
 The following figure shows the proportion of posts in the selected subreddits that swear. 
@@ -24,4 +24,10 @@ The first method I tried was manually inspecting the subreddits with a large or 
 Next, I wanted to see if there's a correlation between  "swear proportion" (the proportion of posts in a subreddit that swear) and "score ratio", I reran the whole notebook multiple times and used the pandas corr function to find the Pearson coefficient. There was always a moderate or weak correlation between "swear proportion" and "score ratio". From this I concluded that there is no significant correlation between "swear proportion" and "score ratio". 
 
 ## Finding which non-swear words are commonly said with swear words
-To find which non-swear words are commonly said with swear words, I trained a logistic regression model to predict whether a post swears or not based on the words in the post and then analyzed the coefficients of the features in the trained logistic regression. 
+To find which non-swear words are commonly said with swear words, I trained a logistic regression model to predict whether a post swears or not based on the words in the post and then analyzed the coefficients of the features in the trained logistic regression. Here are the words with the highest weights:
+
+![Post scores](Pictures/log%20reg%20coeffs.png)
+
+"Hate" was the word the highest weight. This makes sense because "hate" is oftentimes said along with f\*\*\*. Other vulgar words that are sometimes considered swear words (but weren't considered swear words for this project) such as "damn", "di\*\*" and "he\*\*" were among the words with the highest weights. These results make sense. Many of the words with the highest weights are commonly said along with swear words. 
+
+## When do People Swear?
