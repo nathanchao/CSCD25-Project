@@ -44,4 +44,21 @@ To find which non-swear words are commonly said with swear words, I trained a lo
 
 "Hate" was the word the highest weight. This makes sense because "hate" is oftentimes said along with f\*\*\*. Other vulgar words that are sometimes considered swear words (but weren't considered swear words for this project) such as "damn", "di\*\*" and "he\*\*" were among the words with the highest weights. These results make sense. Many of the words with the highest weights are commonly said along with swear words. 
 
-## When do People Swear?
+## When do Redditors Swear?
+First, I looked at swearing frequency in posts created from January 2019 - June 2021. Here is the plot:
+ 
+![Post scores](Pictures/2%20year%20swearing.png)
+
+The plot jumps around between consecutive months. It's not clear if there's an overall upward or downward trend. One noticeable spike that corresponds with a significant event in the world is the spike in March 2020. This is the time when Covid-19 first became serious. 
+
+Next, I looked at the swearing frequency in posts based on the month they were created. Here is the plot:
+
+![Post scores](Pictures/months%20swearing.png)
+
+The swearing frequency from month-to-month is fairly consistent. The one abnormality is the sharp decrease in swearing the September. I'm not sure what caused this. This could simply be caused by the randomness of the data sample.
+
+Then, I looked at the swearing frequnecy in posts based on the day of the week that they were created on. Here's the plot:
+
+![Post scores](Pictures/days%20swearing.png)
+
+The swearing frequency is very consistent across all days of the week.
