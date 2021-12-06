@@ -55,7 +55,7 @@ Next, I looked at the swearing frequency in posts based on the month they were c
 
 ![Post scores](Pictures/months%20swearing.png)
 
-The swearing frequency from month-to-month is fairly consistent. The one abnormality is the sharp decrease in swearing the September. I'm not sure what caused this. This could simply be caused by the randomness of the data sample.
+The swearing frequency from month-to-month is fairly consistent except for sharp decreases in swearing in January, September and November. I'm not sure what caused these sharp decreases. This could simply be caused by the randomness of the data sample.
 
 Then, I looked at the swearing frequnecy in posts based on the day of the week that they were created on. Here's the plot:
 
