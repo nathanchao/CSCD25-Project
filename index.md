@@ -40,7 +40,7 @@ Next, I wanted to see if there's a correlation between  "swear proportion" (the 
 ## Finding which non-swear words are commonly said with swear words
 To find which non-swear words are commonly said with swear words, I trained a logistic regression model to predict whether a post swears or not based on the words in the post and then analyzed the coefficients of the features in the trained logistic regression. Here are the words with the highest weights:
 
-![Post scores](Pictures/2%20year%20swearing%20.png)
+![Post scores](Pictures/2%20year%20swearing.png)
 
 "Hate" was the word the highest weight. This makes sense because "hate" is oftentimes said along with f\*\*\*. Other vulgar words that are sometimes considered swear words (but weren't considered swear words for this project) such as "damn", "di\*\*" and "he\*\*" were among the words with the highest weights. These results make sense. Many of the words with the highest weights are commonly said along with swear words. 
 
