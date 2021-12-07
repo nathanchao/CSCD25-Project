@@ -18,6 +18,19 @@ influences.
 
 To keep data processing times minimal, I selected around 100 posts from 78 subreddits to analyze. Also note that for this assignment, I am considering a swear word to be any word that contains "sh\*\*" or "fu\*\*".
 
+## Intro
+To better understand the behaviours of people who don't swear vs. people who swear, there are multiple questions that I am going to investigate. These questions are: 
+
+* In which communities is swearing most/least favoured\
+(based on the score of posts that have a swear word)?
+* Do people swear more or less in certain communities? If so, which communities?
+* Does swearing affect the score of a post? If so, how?
+* What behaviours on Reddit are associated with swearing?
+* When is swearing the most/least common? 
+
+I will use a variety of methods to investigate these questions. 
+
+
 ## Analyzing Proportion of Posts that Swear in Different Sub-Reddits
 The following figure shows the proportion of posts in the selected subreddits that swear. 
 
