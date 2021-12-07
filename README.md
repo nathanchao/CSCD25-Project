@@ -87,6 +87,7 @@ with the words of each submission being the features. This will show me which \
 non-swear words are commonly used with swear words.
 
 **When do people swear:**
+
 I will group the posts in a variety of ways to see when people swear. These groupings will be: by the day of the week that they were created on, by the month that they were created in, and by which month in the last two years they were created in.
 
 
