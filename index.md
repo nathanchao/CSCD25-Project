@@ -91,7 +91,7 @@ I noticed that communities that are based on some type of complaining tend to ha
 I found that in most communities, posts that swear score higher than posts that don't. 
 
 #### What behaviours on Reddit are associated with swearing?
-After using Logistic Regression, I found that a post having the word "hate" was a very strong predictor of the post swearing. This goes with the theme of communities that are based on some type of complaining having the highest proportion of posts that swear. It seems like posts that swear are usually fairly negative. This result is not surprising agrees with one's intuition.
+After using Logistic Regression, I found that a post having the word "hate" was a very strong predictor of the post swearing. This goes with the theme of communities that are based on some type of complaining having the highest proportion of posts that swear. It seems like posts that swear are usually fairly negative. This result is not surprising and agrees with one's intuition.
 
 #### When is swearing the most/least common?
 Over the past two years, I noticed that there was a spike in swearing frequency in March 2020. March 2020 was when Covid-19 first started to become serious, so it makes sense that more people would swear around that time. There were other spikes and drops in swearing over the past two years, but I'm not sure what caused them.
