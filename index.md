@@ -57,7 +57,7 @@ Next, I looked at the swearing frequency in posts based on the month they were c
 
 The swearing frequency from month-to-month is fairly consistent except for sharp decreases in swearing in January, September and November. I'm not sure what caused these sharp decreases. This could simply be caused by the randomness of the data sample.
 
-Then, I looked at the swearing frequnecy in posts based on the day of the week that they were created on. Here's the plot:
+Then, I looked at the swearing frequency in posts based on the day of the week that they were created on. Here's the plot:
 
 ![Post scores](Pictures/days%20swearing.png)
 
@@ -72,7 +72,7 @@ I used a variety of techniques to investigate my research questions to gain some
 I was not able to find any particular type of subreddits in which swearing is the most/least favoured. However, I found that in most communities, posts that swear score higher than posts that don't. 
 
 #### Do people swear more or less in certain communities? If so, which communities?
-I noticed that communities that are based on some type of complaining tend to have the highest proportion of posts that swear. I couldn't find any commonalities between communitites that don't swear.
+I noticed that communities that are based on some type of complaining tend to have the highest proportion of posts that swear. I couldn't find any commonalities between communities that don't swear.
 
 #### Does swearing affect the score of a post? If so, how?
 I found that in most communities, posts that swear score higher than posts that don't. 
