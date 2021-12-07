@@ -97,3 +97,7 @@ After using Logistic Regression, I found that a post having the word "hate" was 
 Over the past two years, I noticed that there was a spike in swearing frequency in March 2020. March 2020 was when Covid-19 first started to become serious, so it makes sense that more people would swear around that time. There were other spikes and drops in swearing over the past two years, but I'm not sure what caused them.
 
 On a month-to-month basis, I found that swearing frequency is fairly consistent except for in September, there's a large decrease. This may have just been caused by the random sampling of my data.
+
+
+#### Takeaway
+One main takeaway from this project is that people usually swear when they are expressing strong negative feelings toward something. "Hate" was the word most strongly associated with swear words and swearing was most frequent in communities that were focussed on complaining. This is a useful insight. Before you swear, you should remember that doing so will probably add a negative connotation to what you're saying. 
