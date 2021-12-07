@@ -24,7 +24,7 @@ influences.
 * Do people swear more or less in certain communities? If so, which communities?
 * Does swearing affect the score of a post? If so, how?
 * What behaviours on Reddit are associated with swearing?
-* When is swearing the most/least common (which month or day of the week and over the past two years)? 
+* When is swearing the most/least common? 
 
 ## Proposed additional datasets:
 None
