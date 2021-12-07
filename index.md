@@ -42,7 +42,7 @@ Next, I looked at the median score in each subreddit of posts that swear vs. pos
 
 ![Post scores](Pictures/post%20scores.png)
 
-I immediately noticed that in almost all subreddits, the median score for posts that swear is higher than that of posts that don't swear. Out of the sampled subreddits, the average ratio of scores of posts that swear to scores of posts that don't swear is: 5.408527796272671 and the median ratio is 1.9496527777777777.
+I immediately noticed that in almost all subreddits, the median score for posts that swear is higher than that of posts that don't swear. Out of the sampled subreddits, the average ratio of scores of posts that swear to scores of posts that don't swear is: 5.408527796272671 to 1 and the median ratio is 1.9496527777777777 to 1.
 
 From here, I tried to investigate a related question, which is my main research question: in which types of communities swearing is most/least favored in (based on the score of posts)? After trying two different approaches, I was unable to answer this question. 
 
